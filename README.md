@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MADHUSUDHAN.K</h1>
 <h3 align="center">A passionate python developer from Karnataka-India</h3>
 
-- 🔭 I’m currently working on **ECOMMERCE mad on django-restapi and react.js**
+- 🔭 I’m currently working on **ECOMMERCE made on django**
 
-- 🌱 I’m currently learning **DEVOPS,FASTAPI**
+- 🌱 I’m currently learning **DEVOPS,FLASK**
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
