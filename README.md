@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DEVOPS,FASTAPI**
 
-- 👨‍💻 All of my projects are available at [portfolio](Portfolio)
+- 👨‍💻 All of my projects are available at <a href="https://personal-portfolio-4shj.onrender.com/">portfolio</a>
 
 - 💬 Ask me about **PYTHON FULL STACK**
 
