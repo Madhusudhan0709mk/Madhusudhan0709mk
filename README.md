@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **madhumk0709m@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vSsQS80LXEn5ZOlg3coMncWu_H_LdKHp8CnPfRk7tK9a-9EyOpPXqCkMkPQ0F3TPuOL9zAX0X20YbZj/pub](https://docs.google.com/document/d/e/2PACX-1vSsQS80LXEn5ZOlg3coMncWu_H_LdKHp8CnPfRk7tK9a-9EyOpPXqCkMkPQ0F3TPuOL9zAX0X20YbZj/pub)
+- 📄 Know about my experiences <a href="https://shorturl.at/XvodF">google docs</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
