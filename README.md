@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ECOMMERCE made on django**
 
-- 🌱 I’m currently learning **DEVOPS,FLASK**
+- 🌱 I’m currently learning **DEVOPS,FASTAPI**
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
