@@ -11,22 +11,13 @@
 
 - 🌱 I’m currently optimizing **Kubernetes clusters** and refining **RAG pipelines** for enterprise use cases.
 
-- 👨‍💻 View my production-grade systems at <a href="https://personal-portfolio-4shj.onrender.com/">my portfolio</a>
-
 - 💬 Ask me about **System Design**, **Scalability**, **AI Integration**, and **Startup Engineering**
 
-- 📫 Contact for Co-Founder opportunities: **madhumk0709m@gmail.com**
+- 📫 Contact for opportunities: **madhumk0709m@gmail.com**
 
-- 📄 View my detailed track record: <a href="https://shorturl.at/XvodF">Executive Resume</a>
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/madhusudhan-k-761621281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhusudhank" height="30" width="40" /></a>
-<a href="https://youtube.com/@maxit07?si=rByPXfIMAf2wjLBb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maxit" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Madhusudhan0709mk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhusudhank" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Tech Stack & Architecture:</h3>
 <p align="left"> 
